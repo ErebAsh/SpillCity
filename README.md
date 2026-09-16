@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="assets/logo.png" alt="SpillCity Logo" width="150" style="margin-bottom: -15px;" />
-  <h1 style="border-bottom: none; margin: 0; padding: 0;">SpillCity</h1>
-  <p style="margin-top: 5px; font-weight: bold;">A premium, high-performance social networking platform built for iOS and Android.</p>
+<h3 align="center">
+  <img src="assets/logo.png" alt="SpillCity Logo" width="150" />
+  <br>
+  SpillCity
+</h3>
+<p align="center">
+  <strong>A premium, high-performance social networking platform built for iOS and Android.</strong>
+</p>
 
   [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev/)
