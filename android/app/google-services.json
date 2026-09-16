@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800187450710",
+    "project_id": "spillcity",
+    "storage_bucket": "spillcity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800187450710:android:dafe7f0a8d4e8b540582f7",
+        "android_client_info": {
+          "package_name": "com.proxypress.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAyxdFWLRWY2D3RcVnvpp_UfSqrnliDS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

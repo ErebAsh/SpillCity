@@ -1,0 +1,9 @@
+targets:
+  $default:
+    builders:
+      riverpod_generator:
+        enabled: false
+      drift_dev:
+        generate_for:
+          include:
+            - lib/data/database/local_db.dart
