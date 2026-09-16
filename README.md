@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="assets/logo.png" alt="SpillCity Logo" width="150"/>
-  
-  # SpillCity
-  
-  **A premium, high-performance social networking platform built for iOS and Android.**
+  <img src="assets/logo.png" alt="SpillCity Logo" width="150" style="margin-bottom: -15px;" />
+  <h1 style="border-bottom: none; margin: 0; padding: 0;">SpillCity</h1>
+  <p style="margin-top: 5px; font-weight: bold;">A premium, high-performance social networking platform built for iOS and Android.</p>
 
   [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev/)
   [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev/)
@@ -102,3 +100,13 @@ To set up your database schema and Row Level Security (RLS), copy and paste the 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📬 Contact
+
+**ErebAsh**
+
+*   **GitHub:** [@ErebAsh](https://github.com/ErebAsh)
+*   **LinkedIn:** [Himanshu Raj](https://www.linkedin.com/in/himanshurajjnu/)
+*   **Email:** [hr7207096@gmail.com](mailto:hr7207096@gmail.com)
+
+Project Link: [https://github.com/ErebAsh/SpillCity](https://github.com/ErebAsh/SpillCity)
