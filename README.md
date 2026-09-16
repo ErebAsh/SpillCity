@@ -16,7 +16,9 @@
   
 </div>
 
----
+<p align="center">
+--
+</p>
 
 ## 📱 About The Project
 
